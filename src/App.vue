@@ -1,1 +1,13 @@
-<template><h1 class="text-2xl">Маршалы Советского Союза</h1></template>
+<script setup>
+import Navbar from "@/components/Navbar.vue";
+import Hero from "@/components/Hero.vue";
+import HomeCards from "@/components/HomeCards.vue";
+import JobListings from "@/components/JobListings.vue";
+</script>
+
+<template>
+  <Navbar />
+  <Hero title="Find your dream job" subtitle="Never give up on your dreams" />
+  <HomeCards />
+  <JobListings />
+</template>
