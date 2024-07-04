@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "4618",
+      "type": "Remote",
+      "title": "Arsenio Brown",
+      "description": "Consectetur voluptat",
+      "salary": "$150K - $175K",
+      "location": "Excepturi molestiae ",
+      "company": {
+        "name": "Gross Sharp Plc",
+        "description": "Consequatur beatae ",
+        "contactEmail": "qehukaha@mailinator.com",
+        "contactPhone": "+1 (917) 311-7715"
+      }
     }
   ]
 }
